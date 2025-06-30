@@ -4,8 +4,7 @@ This is a clone of the Amazon homepage created using *HTML* and *CSS*. It replic
 
 ## 📸 Preview
 
-![Amazon Homepage Clone](https://github.com/Sudeshj9797/Amazon-clone/blob/main/amazon%20homepage%201.png)
-(https://github.com/Sudeshj9797/Amazon-clone/blob/main/Aamazon%202.png)
+![Amazon Homepage Clone](https://github.com/Sudeshj9797/Amazon-clone/blob/main/amazon%20homepage%201.png)(https://github.com/Sudeshj9797/Amazon-clone/blob/main/Aamazon%202.png)
 
 > Replace screenshot.png with the actual screenshot filename of your project.
 
@@ -26,10 +25,3 @@ This is a clone of the Amazon homepage created using *HTML* and *CSS*. It replic
 - Footer with informational and help links
 - Clean layout closely mimicking the Amazon homepage
 
----
-
-## 🔧 How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/amazon-homepage-clone.git
