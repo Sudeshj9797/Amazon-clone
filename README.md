@@ -1,0 +1,34 @@
+# Amazon Homepage Clone
+
+This is a clone of the Amazon homepage created using *HTML* and *CSS*. It replicates the visual structure and layout of the official Amazon website (as of 2024) and is intended for educational and portfolio purposes only.
+
+## 📸 Preview
+
+![Amazon Homepage Clone](./screenshot.png)
+
+> Replace screenshot.png with the actual screenshot filename of your project.
+
+---
+
+## 🛠 Tech Stack
+
+- *HTML5*
+- *CSS3*
+
+---
+
+## 💡 Features
+
+- Responsive header with logo, search bar, and navigation links
+- Hero section with banner and promotional text
+- Product category tiles (Clothes, Electronics, Health & Personal Care, etc.)
+- Footer with informational and help links
+- Clean layout closely mimicking the Amazon homepage
+
+---
+
+## 🔧 How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/amazon-homepage-clone.git
